@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886891902404",
+    "project_id": "nfcapp-ffabb",
+    "storage_bucket": "nfcapp-ffabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886891902404:android:7cd1cf5692c122e512a091",
+        "android_client_info": {
+          "package_name": "com.example.nfc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886891902404-2tiv3r05l3t49jtqnpihlam01m9n3aod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUcb0f8qk2uGHYgDdaYCtuI6YMNEVrDDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886891902404-2tiv3r05l3t49jtqnpihlam01m9n3aod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
