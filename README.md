@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
+This Project is a NFC(Near Communication Field) Tools Management devolloped in Flutter that permit to user to connect to their accounts and will be able to:
+
+Read Tag: read the information written in the NFC Tag.
+
+Write Tag: save information into the NFC Tag (Text, Description,Title, Web Sites).
+
+Lock Tag: lock the tag permenently so the information saved cannot be moddified or overwrited by other users.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
